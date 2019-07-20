@@ -40,7 +40,9 @@ optional arguments:
 ### redblue.py
 
 A certain urn contains 2 types of balls, red or blue.
+
 If a red ball is draw, it is discarded.
+
 If a blue ball is drawn, the next ball will be discarded, whichever type.
 
 What is the chance that a red ball being the last one in the urn?
